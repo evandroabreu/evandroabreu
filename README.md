@@ -1,6 +1,6 @@
 # Hi There, I'm Evandro Abreu 👋
 
-- 🔭 I’m currently working as Software Engineer [STS Informática](https://stsinformatica.com.br/)
+- 🔭 I’m currently working as Software Engineer at [STS Informática](https://stsinformatica.com.br/)
 - 🌱 I’m learning and improving Node, Typescript, Nest JS, TDD, SOLID, AWS.!
 - 💖 Interested in modern development, best practices and software architecture
 - 😄 Pronouns: Him/His
